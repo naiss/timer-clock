@@ -1,3 +1,4 @@
-https://naiss.github.io/timerClock/
+To run: npm install + npm start
 
-![image](https://github.com/naiss/timerClock/assets/32767749/42bcb541-fbdf-4531-9f51-c61d413f55bc)
+
+![image](https://github.com/naiss/timer-clock/assets/32767749/24c911f2-476b-4095-8f94-f98a2a7f2dd9)
